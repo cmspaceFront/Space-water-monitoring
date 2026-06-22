@@ -1,0 +1,29 @@
+{
+  "name": "ProductivityLocalizationMapV1",
+  "label": "ProductivityLocalizationMapV1",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.16.0",
+  "author": "Custom Developer",
+  "description": "Combined localization header, map slot, and FeatureLayer-based productivity XY chart.",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1920,
+    "height": 920
+  },
+  "supports": {
+    "map": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "supportInlineEditing": true,
+  "hasSettingPage": true,
+  "useMapWidgetIds": true,
+  "useDataSources": true
+}

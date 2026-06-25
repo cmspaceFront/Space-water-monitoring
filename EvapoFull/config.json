@@ -1,0 +1,27 @@
+{
+  "defaultYear": "2025",
+  "defaultRegion": "Farg'ona viloyati",
+  "enableMinMaxControl": true,
+  "enableColorRendererControl": true,
+  "enableRegionFilterControl": true,
+  "enableLogoutControl": true,
+  "selectionPercentage": 10,
+  "polygonIdField": "GlobalID",
+  "rightPanelWidthPercent": 40,
+  "chartType": "bar",
+  "agriPolygon": {
+    "fieldsToShow": [],
+    "titleField": "",
+    "labels": {},
+    "settings": {
+      "zoomToSelection": true,
+      "showMapPopup": false,
+      "showAttachments": true
+    },
+    "chartEnabled": false,
+    "chartType": "bar",
+    "chartTitle": "",
+    "chartFields": [],
+    "chartColor": "#3b82f6"
+  }
+}

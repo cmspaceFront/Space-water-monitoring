@@ -1,0 +1,38 @@
+{
+  "name": "EvapoFull",
+  "label": "EvapoFull",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.16.0",
+  "author": "Custom Developer",
+  "description": "Unified Evapo dashboard with localization, indicators, charts, and XY productivity chart page navigation",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "settingPanel": {
+    "title": "Evapo Dashboard",
+    "size": "small"
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1920,
+    "height": 920
+  },
+  "supports": {
+    "map": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "dataSource": true,
+  "supportDataSource": true,
+  "widgetProps": [
+    "useDataSources",
+    "useMapWidgetIds"
+  ],
+  "supportInlineEditing": true
+}

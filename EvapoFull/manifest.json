@@ -28,11 +28,7 @@
   "dependency": [
     "jimu-arcgis"
   ],
-  "dataSource": true,
-  "supportDataSource": true,
-  "widgetProps": [
-    "useDataSources",
-    "useMapWidgetIds"
-  ],
-  "supportInlineEditing": true
+  "supportInlineEditing": true,
+  "hasSettingPage": true,
+  "useDataSources": true
 }

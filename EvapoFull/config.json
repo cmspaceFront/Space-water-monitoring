@@ -1,12 +1,10 @@
 {
-  "defaultYear": "2025",
-  "defaultRegion": "Farg'ona viloyati",
   "enableMinMaxControl": true,
   "enableColorRendererControl": true,
   "enableRegionFilterControl": true,
   "enableLogoutControl": true,
   "selectionPercentage": 10,
-  "polygonIdField": "GlobalID",
+  "polygonIdField": "OBJECTID",
   "rightPanelWidthPercent": 40,
   "chartType": "bar",
   "agriPolygon": {

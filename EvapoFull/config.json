@@ -7,6 +7,10 @@
   "polygonIdField": "OBJECTID",
   "rightPanelWidthPercent": 40,
   "chartType": "bar",
+  "useEmbeddedMap": true,
+  "embeddedMapWebmapUrl": "https://sgm.uzspace.uz/portal/apps/mapviewer/index.html?webmap=53a5b8f70d9b458182ff21087019369c",
+  "embeddedMapPortalUrl": "https://sgm.uzspace.uz/portal",
+  "embeddedMapWebmapItemId": "53a5b8f70d9b458182ff21087019369c",
   "agriPolygon": {
     "fieldsToShow": [],
     "titleField": "",

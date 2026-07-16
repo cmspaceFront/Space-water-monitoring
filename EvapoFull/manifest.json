@@ -5,16 +5,10 @@
   "version": "1.0.0",
   "exbVersion": "1.16.0",
   "author": "Custom Developer",
-  "description": "Unified Evapo dashboard with localization, indicators, charts, and XY productivity chart page navigation",
+  "description": "Unified Evapo dashboard layout with localization, indicators, combined chart, water canal widgets, crop bar, and AgriPolygon popup",
   "copyright": "",
   "license": "",
-  "properties": {
-    "hasSettingPage": true
-  },
-  "settingPanel": {
-    "title": "Evapo Dashboard",
-    "size": "small"
-  },
+  "properties": {},
   "translatedLocales": [
     "en"
   ],

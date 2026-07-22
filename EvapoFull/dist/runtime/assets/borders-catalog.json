@@ -1,0 +1,1101 @@
+{
+  "regions": {
+    "1735": {
+      "uz": "Qoraqalpog'iston R.",
+      "ru": "Каракалпакстан",
+      "en": "R. Karakalpakstan"
+    },
+    "1703": {
+      "uz": "Andijon",
+      "ru": "Андижан",
+      "en": "Andijan"
+    },
+    "1730": {
+      "uz": "Farg'ona",
+      "ru": "Фергана",
+      "en": "Fergana"
+    },
+    "1708": {
+      "uz": "Jizzax",
+      "ru": "Джизак",
+      "en": "Jizzakh"
+    },
+    "1714": {
+      "uz": "Namangan",
+      "ru": "Наманган",
+      "en": "Namangan"
+    },
+    "1712": {
+      "uz": "Navoiy",
+      "ru": "Навои",
+      "en": "Navoi"
+    },
+    "1710": {
+      "uz": "Qashqadaryo",
+      "ru": "Кашкадарья",
+      "en": "Qashqadarya"
+    },
+    "1718": {
+      "uz": "Samarqand",
+      "ru": "Самарканд",
+      "en": "Samarkand"
+    },
+    "1724": {
+      "uz": "Sirdaryo",
+      "ru": "Сырдарья",
+      "en": "Syrdarya"
+    },
+    "1722": {
+      "uz": "Surxondaryo",
+      "ru": "Сурхандарья",
+      "en": "Surkhandarya"
+    },
+    "1726": {
+      "uz": "Toshkent sh.",
+      "ru": "г. Ташкент",
+      "en": "Tashkent c."
+    },
+    "1727": {
+      "uz": "Toshkent v.",
+      "ru": "Ташкентская обл.",
+      "en": "Tashkent r."
+    },
+    "1733": {
+      "uz": "Xorazm",
+      "ru": "Хорезм",
+      "en": "Khorezm"
+    },
+    "1706": {
+      "uz": "Buxoro",
+      "ru": "Бухара",
+      "en": "Bukhara"
+    }
+  },
+  "districts": {
+    "1735401": {
+      "uz": "Nukus shahri",
+      "ru": "город Нукус",
+      "en": "Nukus City"
+    },
+    "1735225": {
+      "uz": "Nukus tumani",
+      "ru": "Нукусский район",
+      "en": "Nukus District"
+    },
+    "1735211": {
+      "uz": "Qorao‘zak tumani",
+      "ru": "Караузякский район",
+      "en": "Karaozyak District"
+    },
+    "1735240": {
+      "uz": "Chimboy tumani",
+      "ru": "Чимбайский район",
+      "en": "Chimbay District"
+    },
+    "1735207": {
+      "uz": "Beruniy tumani",
+      "ru": "Берунийский район",
+      "en": "Beruniy District"
+    },
+    "1735233": {
+      "uz": "To‘rtko‘l tumani",
+      "ru": "Турткульский район",
+      "en": "Turtkul District"
+    },
+    "1735222": {
+      "uz": "Mo‘ynoq tumani",
+      "ru": "Муйнакский район",
+      "en": "Muynak District"
+    },
+    "1735230": {
+      "uz": "Taxtako‘pir tumani",
+      "ru": "Тахтакупырский район",
+      "en": "Takhtakupir District"
+    },
+    "1735204": {
+      "uz": "Amudaryo tumani",
+      "ru": "Амударьинский район",
+      "en": "Amudarya District"
+    },
+    "1735212": {
+      "uz": "Kegeyli tumani",
+      "ru": "Кегейлийский район",
+      "en": "Kegeyli District"
+    },
+    "1735250": {
+      "uz": "Ellikkala tumani",
+      "ru": "Элликкалинский район",
+      "en": "Ellikkala District"
+    },
+    "1735236": {
+      "uz": "Xo‘jayli tumani",
+      "ru": "Ходжейлийский район",
+      "en": "Khodjeyli District"
+    },
+    "1735228": {
+      "uz": "Taxiatosh tumani",
+      "ru": "Тахиаташский район",
+      "en": "Taxiatosh District"
+    },
+    "1735243": {
+      "uz": "Shumanay tumani",
+      "ru": "Шуманайский район",
+      "en": "Shumanay District"
+    },
+    "1735215": {
+      "uz": "Qo‘ng‘irot tumani",
+      "ru": "Кунградский район",
+      "en": "Kungrad District"
+    },
+    "1735218": {
+      "uz": "Qanliko‘l tumani",
+      "ru": "Канлыкульский район",
+      "en": "Kanlykul District"
+    },
+    "1735209": {
+      "uz": "Bo‘zatov tumani",
+      "ru": "Бозатауский район",
+      "en": "Bozatov District"
+    },
+    "1703401": {
+      "uz": "Andijon shahar",
+      "ru": "город Андижан",
+      "en": "Andijan City"
+    },
+    "1703236": {
+      "uz": "Xo‘jaobod tumani",
+      "ru": "Ходжаабадский район",
+      "en": "Khodjaabad District"
+    },
+    "1703210": {
+      "uz": "Buloqboshi tumani",
+      "ru": "Булакбошинский район",
+      "en": "Buloqboshi District"
+    },
+    "1703408": {
+      "uz": "Xonobod shahar",
+      "ru": "город Ханабад",
+      "en": "Khanabad City"
+    },
+    "1703232": {
+      "uz": "Paxtaobod tumani",
+      "ru": "Пахтаабадский район",
+      "en": "Pakhtabad District"
+    },
+    "1703224": {
+      "uz": "Asaka tumani",
+      "ru": "Асакинский район",
+      "en": "Asaka District"
+    },
+    "1703209": {
+      "uz": "Bo‘ston tumani",
+      "ru": "Бустанский район",
+      "en": "Bostan District"
+    },
+    "1703230": {
+      "uz": "Shaxrixon tumani",
+      "ru": "Шахриханский район",
+      "en": "Shakhrikhan District"
+    },
+    "1703220": {
+      "uz": "Qo‘rg‘ontepa tumani",
+      "ru": "Кургантепинский район",
+      "en": "Kurgantepa District"
+    },
+    "1703217": {
+      "uz": "Ulug‘nor tumani",
+      "ru": "Улугнорский район",
+      "en": "Ulugnor District"
+    },
+    "1703227": {
+      "uz": "Marxamat tumani",
+      "ru": "Мархаматский район",
+      "en": "Markhamat District"
+    },
+    "1703206": {
+      "uz": "Baliqchi tumani",
+      "ru": "Балыкчинский район",
+      "en": "Baliqchi District"
+    },
+    "1703214": {
+      "uz": "Izboskan tumani",
+      "ru": "Избасканский район",
+      "en": "Izboskan District"
+    },
+    "1703202": {
+      "uz": "Oltinko‘l tumani",
+      "ru": "Алтынкульский район",
+      "en": "Oltinkol District"
+    },
+    "1703203": {
+      "uz": "Andijon tumani",
+      "ru": "Андижанский район",
+      "en": "Andijan District"
+    },
+    "1730209": {
+      "uz": "Bog‘dod tumani",
+      "ru": "Багдадский район",
+      "en": "Bagdad District"
+    },
+    "1730212": {
+      "uz": "Buvayda tumani",
+      "ru": "Бувайдинский район",
+      "en": "Buvayda District"
+    },
+    "1730242": {
+      "uz": "Yozyovon tumani",
+      "ru": "Язъяванский район",
+      "en": "Yazyovan District"
+    },
+    "1730412": {
+      "uz": "Marg‘ilon shahri",
+      "ru": "город Маргилан",
+      "en": "Margilan City"
+    },
+    "1730224": {
+      "uz": "Rishton tumani",
+      "ru": "Риштанский район",
+      "en": "Rishton District"
+    },
+    "1730221": {
+      "uz": "Uchko‘prik tumani",
+      "ru": "Учкуприкский район",
+      "en": "Uchkuprik District"
+    },
+    "1730233": {
+      "uz": "Farg‘ona tumani",
+      "ru": "Ферганский район",
+      "en": "Fergana District"
+    },
+    "1730226": {
+      "uz": "So‘x tumani",
+      "ru": "Сохский район",
+      "en": "Sokh District"
+    },
+    "1730215": {
+      "uz": "Beshariq tumani",
+      "ru": "Бешарыкский район",
+      "en": "Besharyk District"
+    },
+    "1730206": {
+      "uz": "Qo‘shtepa tumani",
+      "ru": "Куштепинский район",
+      "en": "Kushtepa District"
+    },
+    "1730203": {
+      "uz": "Oltiariq tumani",
+      "ru": "Алтыарыкский район",
+      "en": "Oltiariq District"
+    },
+    "1730230": {
+      "uz": "O'zbekiston tumani",
+      "ru": "Узбекистанский район",
+      "en": "Uzbekistan District"
+    },
+    "1730236": {
+      "uz": "Dang‘ara tumani",
+      "ru": "Дангаринский район",
+      "en": "Dangara District"
+    },
+    "1730227": {
+      "uz": "Toshloq tumani",
+      "ru": "Ташлакский район",
+      "en": "Tashlak District"
+    },
+    "1730408": {
+      "uz": "Quvasoy shahri",
+      "ru": "город Кувасай",
+      "en": "Kuvasay City"
+    },
+    "1730238": {
+      "uz": "Furqat tumani",
+      "ru": "Фуркатский район",
+      "en": "Furkat District"
+    },
+    "1730218": {
+      "uz": "Quva tumani",
+      "ru": "Куваский район",
+      "en": "Kuva District"
+    },
+    "1730401": {
+      "uz": "Farg‘ona shahri",
+      "ru": "гoрод Ферганa",
+      "en": "Fergana city"
+    },
+    "1730405": {
+      "uz": "Qo‘qon shahri",
+      "ru": "город Коканд",
+      "en": "Kokand City"
+    },
+    "1708401": {
+      "uz": "Jizzax shahri",
+      "ru": "город Джизак",
+      "en": "Jizzakh City"
+    },
+    "1708220": {
+      "uz": "Zarbdor tumani",
+      "ru": "Зарбдарский район",
+      "en": "Zarbdar District"
+    },
+    "1708237": {
+      "uz": "Yangiobod tumani",
+      "ru": "Янгиабадский район",
+      "en": "Yangiobod District"
+    },
+    "1708212": {
+      "uz": "Sharof Rashidov tumani",
+      "ru": "Шараф-Рашидовский район",
+      "en": "Sharof Rashidov District"
+    },
+    "1708218": {
+      "uz": "Zomin tumani",
+      "ru": "Зааминский район",
+      "en": "Zomin District"
+    },
+    "1708228": {
+      "uz": "Paxtakor tumani",
+      "ru": "Пахтакорский район",
+      "en": "Pakhtakor District"
+    },
+    "1708201": {
+      "uz": "Arnasoy tumani",
+      "ru": "Арнасайский район",
+      "en": "Arnasay District"
+    },
+    "1708235": {
+      "uz": "Forish tumani",
+      "ru": "Фаришский район",
+      "en": "Forish District"
+    },
+    "1708225": {
+      "uz": "Zafarobod tumani",
+      "ru": "Зафарабадский район",
+      "en": "Zafarabad District"
+    },
+    "1708215": {
+      "uz": "Do‘stlik tumani",
+      "ru": "Дустликский район",
+      "en": "Dustlik District"
+    },
+    "1708223": {
+      "uz": "Mirzacho‘l tumani",
+      "ru": "Мирзачульский район",
+      "en": "Mirzachul District"
+    },
+    "1708209": {
+      "uz": "G‘allaorol tumani",
+      "ru": "Галляаральский район",
+      "en": "Gallaorol District"
+    },
+    "1708204": {
+      "uz": "Baxmal tumani",
+      "ru": "Бахмальский район",
+      "en": "Bakhmal District"
+    },
+    "1714212": {
+      "uz": "Namangan tumani",
+      "ru": "Наманганский район",
+      "en": "Namangan District"
+    },
+    "1714237": {
+      "uz": "Chust tumani",
+      "ru": "Чустский район",
+      "en": "Chust District"
+    },
+    "1714216": {
+      "uz": "Norin tumani",
+      "ru": "Нарынский район",
+      "en": "Naryn District"
+    },
+    "1714236": {
+      "uz": "Chortoq tumani",
+      "ru": "Чартакский район",
+      "en": "Chartak District"
+    },
+    "1714219": {
+      "uz": "Pop tumani",
+      "ru": "Папский район",
+      "en": "Pop District"
+    },
+    "1714234": {
+      "uz": "Uchqo‘rg‘on tumani",
+      "ru": "Учкурганский район",
+      "en": "Uchkurgan District"
+    },
+    "1714242": {
+      "uz": "Yangiqo‘rg‘on tumani",
+      "ru": "Янгикурганский район",
+      "en": "Yangikurgan District"
+    },
+    "1714229": {
+      "uz": "Uychi tumani",
+      "ru": "Уйчинский район",
+      "en": "Uychi District"
+    },
+    "1714204": {
+      "uz": "Mingbuloq tumani",
+      "ru": "Мингбулакский район",
+      "en": "Mingbulak District"
+    },
+    "1714207": {
+      "uz": "Kosonsoy tumani",
+      "ru": "Косонсойский район",
+      "en": "Kosonsay District"
+    },
+    "1714401": {
+      "uz": "Namangan shahri",
+      "ru": "г. Наманган",
+      "en": "Namangan City"
+    },
+    "1714224": {
+      "uz": "To‘raqo‘rg‘on tumani",
+      "ru": "Туракурганский район",
+      "en": "Turakurgan District"
+    },
+    "1712408": {
+      "uz": "Zarafshon shahri",
+      "ru": "город Зарафшан",
+      "en": "Zarafshan City"
+    },
+    "1712211": {
+      "uz": "Konimex tumani",
+      "ru": "Канимехский район",
+      "en": "Konimekh District"
+    },
+    "1712244": {
+      "uz": "Tomdi tumani",
+      "ru": "Тамдынский район",
+      "en": "Tomdi District"
+    },
+    "1712412": {
+      "uz": "G‘ozg‘on shahri",
+      "ru": "город Газган",
+      "en": "Gazgan City"
+    },
+    "1712234": {
+      "uz": "Karmana tumani",
+      "ru": "Карманинский район",
+      "en": "Karmana District"
+    },
+    "1712230": {
+      "uz": "Navbahor tumani",
+      "ru": "Навбахорский район",
+      "en": "Navbahor District"
+    },
+    "1712401": {
+      "uz": "Navoiy shahar",
+      "ru": "город Навои",
+      "en": "Navoi City"
+    },
+    "1712251": {
+      "uz": "Xatirchi tumani",
+      "ru": "Хатырчинский район",
+      "en": "Khatirchi District"
+    },
+    "1712216": {
+      "uz": "Qiziltepa tumani",
+      "ru": "Кызылтепинский район",
+      "en": "Kyzyltepa District"
+    },
+    "1712238": {
+      "uz": "Nurota tumani",
+      "ru": "Нуратинский район",
+      "en": "Nurota District"
+    },
+    "1712248": {
+      "uz": "Uchquduq tumani",
+      "ru": "Учкудукский район",
+      "en": "Uchkuduk District"
+    },
+    "1710401": {
+      "uz": "Qarshi shahri",
+      "ru": "город Карши",
+      "en": "Karshi City"
+    },
+    "1710242": {
+      "uz": "Chiroqchi tumani",
+      "ru": "Чиракчинский район",
+      "en": "Chirakchi District"
+    },
+    "1710212": {
+      "uz": "Dehqonobod tumani",
+      "ru": "Дехканабадский район",
+      "en": "Dehkanabad District"
+    },
+    "1710245": {
+      "uz": "Shahrisabz tumani",
+      "ru": "Шахрисабзский район",
+      "en": "Shakhrisabz District"
+    },
+    "1710405": {
+      "uz": "Shahrisabz shahri",
+      "ru": "город Шахрисабз",
+      "en": "Shakhrisabz City"
+    },
+    "1710224": {
+      "uz": "Qarshi tumani",
+      "ru": "Каршинский район",
+      "en": "Karshi District"
+    },
+    "1710234": {
+      "uz": "Muborak tumani",
+      "ru": "Мубарекский район",
+      "en": "Muborak District"
+    },
+    "1710220": {
+      "uz": "Qamashi tumani",
+      "ru": "Камашинский район",
+      "en": "Kamashi District"
+    },
+    "1710240": {
+      "uz": "Ko'kdala tumani",
+      "ru": "Кукдалинский район",
+      "en": "Kokdala District"
+    },
+    "1710207": {
+      "uz": "G‘uzor tumani",
+      "ru": "Гузарский район",
+      "en": "Guzar District"
+    },
+    "1710237": {
+      "uz": "Kasbi tumani",
+      "ru": "Касбийский район",
+      "en": "Kasbi District"
+    },
+    "1710235": {
+      "uz": "Nishon tumani",
+      "ru": "Нишанский район",
+      "en": "Nishan District"
+    },
+    "1710233": {
+      "uz": "Mirishkor tumani",
+      "ru": "Миришкорский район",
+      "en": "Mirishkor District"
+    },
+    "1710232": {
+      "uz": "Kitob tumani",
+      "ru": "Китабский район",
+      "en": "Kitab District"
+    },
+    "1710229": {
+      "uz": "Koson tumani",
+      "ru": "Касанский район",
+      "en": "Kasan District"
+    },
+    "1710250": {
+      "uz": "Yakkabog‘ tumani",
+      "ru": "Яккабагский район",
+      "en": "Yakkabag District"
+    },
+    "1718227": {
+      "uz": "Pastdarg‘om tumani",
+      "ru": "Пастдаргомский район",
+      "en": "Pastdargom District"
+    },
+    "1718209": {
+      "uz": "Jomboy tumani",
+      "ru": "Джамбайский район",
+      "en": "Jomboy District"
+    },
+    "1718218": {
+      "uz": "Narpay tumani",
+      "ru": "Нарпайский район",
+      "en": "Narpay District"
+    },
+    "1718203": {
+      "uz": "Oqdaryo tumani",
+      "ru": "Акдарьинский район",
+      "en": "Akdarya District"
+    },
+    "1718406": {
+      "uz": "Kattaqo‘rg‘on shahri",
+      "ru": "город Каттакурган",
+      "en": "Kattakurgan City"
+    },
+    "1718212": {
+      "uz": "Ishtixon tumani",
+      "ru": "Иштыханский район",
+      "en": "Ishtikhon District"
+    },
+    "1718230": {
+      "uz": "Paxtachi tumani",
+      "ru": "Пахтачийский район",
+      "en": "Pakhtachi District"
+    },
+    "1718235": {
+      "uz": "Nurobod tumani",
+      "ru": "Нурабадский район",
+      "en": "Nurabad District"
+    },
+    "1718216": {
+      "uz": "Qo‘shrabot tumani",
+      "ru": "Кошрабатский район",
+      "en": "Koshrabat District"
+    },
+    "1718215": {
+      "uz": "Kattaqo‘rg‘on tumani",
+      "ru": "Каттакурганский район",
+      "en": "Kattakurgan District"
+    },
+    "1718236": {
+      "uz": "Urgut tumani",
+      "ru": "Ургутский район",
+      "en": "Urgut District"
+    },
+    "1718224": {
+      "uz": "Payariq tumani",
+      "ru": "Пайарыкский район",
+      "en": "Payaryk District"
+    },
+    "1718206": {
+      "uz": "Bulung‘ur tumani",
+      "ru": "Булунгурский район",
+      "en": "Bulungur District"
+    },
+    "1718238": {
+      "uz": "Tayloq tumani",
+      "ru": "Тайлакский район",
+      "en": "Tailak District"
+    },
+    "1718401": {
+      "uz": "Samarqand shahri",
+      "ru": "город Самарканд",
+      "en": "Samarkand City"
+    },
+    "1718233": {
+      "uz": "Samarqand tumani",
+      "ru": "Самаркандский район",
+      "en": "Samarkand District"
+    },
+    "1724206": {
+      "uz": "Oqoltin tumani",
+      "ru": "Акалтынский район",
+      "en": "Akaltin District"
+    },
+    "1724231": {
+      "uz": "Sirdaryo tumani",
+      "ru": "Сырдарьинский район",
+      "en": "Syrdarya District"
+    },
+    "1724216": {
+      "uz": "Sayxunobod tumani",
+      "ru": "Сайхунабадский район",
+      "en": "Saykhunabad District"
+    },
+    "1724228": {
+      "uz": "Mirzaobod tumani",
+      "ru": "Мирзаабадский район",
+      "en": "Mirzaabad District"
+    },
+    "1724226": {
+      "uz": "Sardoba tumani",
+      "ru": "Сардобинский район",
+      "en": "Sardoba District"
+    },
+    "1724401": {
+      "uz": "Guliston shahri",
+      "ru": "город Гулистан",
+      "en": "Gulistan City"
+    },
+    "1724413": {
+      "uz": "Yangiyer shahri",
+      "ru": "город Янгиер",
+      "en": "Yangiyer City"
+    },
+    "1724235": {
+      "uz": "Xovos tumani",
+      "ru": "Хавастский район",
+      "en": "Khavas District"
+    },
+    "1724212": {
+      "uz": "Boyovut tumani",
+      "ru": "Баяутский район",
+      "en": "Boyovut District"
+    },
+    "1724410": {
+      "uz": "Shirin shahri",
+      "ru": "город Ширин",
+      "en": "Shirin City"
+    },
+    "1724220": {
+      "uz": "Guliston tumani",
+      "ru": "Гулистанский район",
+      "en": "Gulistan District"
+    },
+    "1722215": {
+      "uz": "Qiziriq tumani",
+      "ru": "Кизирикский район",
+      "en": "Kizirik District"
+    },
+    "1722210": {
+      "uz": "Denov tumani",
+      "ru": "Денауский район",
+      "en": "Denau District"
+    },
+    "1722401": {
+      "uz": "Termiz shahri",
+      "ru": "город Термез",
+      "en": "Termez City"
+    },
+    "1722220": {
+      "uz": "Termiz tumani",
+      "ru": "Термезский район",
+      "en": "Termez District"
+    },
+    "1722207": {
+      "uz": "Muzrabot tumani",
+      "ru": "Музрабадский район",
+      "en": "Muzrabot District"
+    },
+    "1722226": {
+      "uz": "Sho‘rchi tumani",
+      "ru": "Шурчинский район",
+      "en": "Shurchi District"
+    },
+    "1722201": {
+      "uz": "Oltinsoy tumani",
+      "ru": "Алтынсайский район",
+      "en": "Altinsoy District"
+    },
+    "1722214": {
+      "uz": "Qumqo‘rg‘on tumani",
+      "ru": "Кумкурганский район",
+      "en": "Kumkurgan District"
+    },
+    "1722217": {
+      "uz": "Sariosiyo tumani",
+      "ru": "Сариасийский район",
+      "en": "Sariosiyo District"
+    },
+    "1722203": {
+      "uz": "Bandixon tumani",
+      "ru": "Бандиханский район",
+      "en": "Bandikhan District"
+    },
+    "1722223": {
+      "uz": "Sherobod tumani",
+      "ru": "Шерабадский район",
+      "en": "Sherabad District"
+    },
+    "1722202": {
+      "uz": "Angor tumani",
+      "ru": "Ангорский район",
+      "en": "Angor District"
+    },
+    "1722204": {
+      "uz": "Boysun tumani",
+      "ru": "Байсунский район",
+      "en": "Baysun District"
+    },
+    "1722212": {
+      "uz": "Jarqo‘rg‘on tumani",
+      "ru": "Джаркурганский район",
+      "en": "Jarkurgan District"
+    },
+    "1722221": {
+      "uz": "Uzun tumani",
+      "ru": "Узунский район",
+      "en": "Uzun District"
+    },
+    "1726292": {
+      "uz": "Yangihayot tumani",
+      "ru": "Янгихаётский район",
+      "en": "Yangihayot District"
+    },
+    "1726277": {
+      "uz": "Shayxontohur tumani",
+      "ru": "Шайхантахурский район",
+      "en": "Shaykhontakhur District"
+    },
+    "1726269": {
+      "uz": "Mirzo ulug‘bek tumani",
+      "ru": "Мирзо-Улугбекский район",
+      "en": "Mirzo Ulugbek District"
+    },
+    "1726280": {
+      "uz": "Olmazor tumani",
+      "ru": "Алмазарский район",
+      "en": "Almazar District"
+    },
+    "1726266": {
+      "uz": "Yunusobod tumani",
+      "ru": "Юнусабадский район",
+      "en": "Yunusabad District"
+    },
+    "1726283": {
+      "uz": "Sirg‘ali tumani",
+      "ru": "Сергелийский район",
+      "en": "Sergeli District"
+    },
+    "1726290": {
+      "uz": "Yashnobod tumani",
+      "ru": "Яшнабадский район",
+      "en": "Yashnabad District"
+    },
+    "1726287": {
+      "uz": "Yakkasaroy tumani",
+      "ru": "Яккасарайский район",
+      "en": "Yakkasaray District"
+    },
+    "1726273": {
+      "uz": "Mirobod tumani",
+      "ru": "Мирабадский район",
+      "en": "Mirobod District"
+    },
+    "1726294": {
+      "uz": "Chilonzor tumani",
+      "ru": "Чиланзарский район",
+      "en": "Chilanzar District"
+    },
+    "1726264": {
+      "uz": "Bektemir tumani",
+      "ru": "Бектемирский район",
+      "en": "Bektemir District"
+    },
+    "1726262": {
+      "uz": "Uchtepa tumani",
+      "ru": "Учтепинский район",
+      "en": "Uchtepa District"
+    },
+    "1727239": {
+      "uz": "Yuqorichirchiq tumani",
+      "ru": "Юкарычирчикский район",
+      "en": "Yukorichirchik District"
+    },
+    "1727212": {
+      "uz": "Ohangaron tumani",
+      "ru": "Ахангеранский район",
+      "en": "Ahangaran District"
+    },
+    "1727424": {
+      "uz": "Yangiyo‘l shahri",
+      "ru": "город Янгиюль",
+      "en": "Yangiyul City"
+    },
+    "1727259": {
+      "uz": "Yangiyo‘l tumani",
+      "ru": "Янгиюльский район",
+      "en": "Yangiyul District"
+    },
+    "1727237": {
+      "uz": "Zangiota tumani",
+      "ru": "Зангиатинский район",
+      "en": "Zangiota District"
+    },
+    "1727401": {
+      "uz": "Nurafshon shahri",
+      "ru": "город Нурафшан",
+      "en": "Nurafshon City"
+    },
+    "1727419": {
+      "uz": "Chirchiq shahri",
+      "ru": "город Чирчик",
+      "en": "Chirchik City"
+    },
+    "1727253": {
+      "uz": "O‘rtachirchiq tumani",
+      "ru": "Уртачирчикский район",
+      "en": "Urtachirchik District"
+    },
+    "1727220": {
+      "uz": "Bekobod tumani",
+      "ru": "Бекабадский район",
+      "en": "Bekabad District"
+    },
+    "1727248": {
+      "uz": "Qibray tumani",
+      "ru": "Кибрайский район",
+      "en": "Kibray District"
+    },
+    "1727250": {
+      "uz": "Pskent tumani",
+      "ru": "Пскентский район",
+      "en": "Pskent District"
+    },
+    "1727249": {
+      "uz": "Parkent tumani",
+      "ru": "Паркентский район",
+      "en": "Parkent District"
+    },
+    "1727233": {
+      "uz": "Qiyichirchiq tumani",
+      "ru": "Куйичирчикский район",
+      "en": "Kuyichirchik District"
+    },
+    "1727404": {
+      "uz": "Olmaliq shahri",
+      "ru": "город Алмалык",
+      "en": "Almalyk City"
+    },
+    "1727407": {
+      "uz": "Angren shahri",
+      "ru": "город Ангрен",
+      "en": "Angren City"
+    },
+    "1727224": {
+      "uz": "Bo‘stonliq tumani",
+      "ru": "Бостанлыкский район",
+      "en": "Bostanlik District"
+    },
+    "1727228": {
+      "uz": "Bo‘ka tumani",
+      "ru": "Букинский район",
+      "en": "Buka District"
+    },
+    "1727206": {
+      "uz": "Oqqo‘rg‘on tumani",
+      "ru": "Аккурганский район",
+      "en": "Akkurgan District"
+    },
+    "1727415": {
+      "uz": "Ohangaron shahri",
+      "ru": "город Ахангеран",
+      "en": "Ahangaran City"
+    },
+    "1727256": {
+      "uz": "Chinoz tumani",
+      "ru": "Чиназский район",
+      "en": "Chinaz District"
+    },
+    "1727265": {
+      "uz": "Toshkent tumani",
+      "ru": "Ташкентский район",
+      "en": "Tashkent District"
+    },
+    "1727413": {
+      "uz": "Bekobod shahri",
+      "ru": "город Бекабад",
+      "en": "Bekabad City"
+    },
+    "1733204": {
+      "uz": "Bog‘ot tumani",
+      "ru": "Багатский район",
+      "en": "Bagat District"
+    },
+    "1733217": {
+      "uz": "Urganch tumani",
+      "ru": "Ургенчский район",
+      "en": "Urgench District"
+    },
+    "1733220": {
+      "uz": "Xazorasp tumani",
+      "ru": "Хазараспский район",
+      "en": "Khazarasp District"
+    },
+    "1733233": {
+      "uz": "Yangiariq tumani",
+      "ru": "Янгиарыкский район",
+      "en": "Yangiaryk District"
+    },
+    "1733223": {
+      "uz": "Xonqa tumani",
+      "ru": "Ханкинский район",
+      "en": "Khanka District"
+    },
+    "1733221": {
+      "uz": "Tuproqqal'a tumani",
+      "ru": "Тупроккалинский район",
+      "en": "Tuproqqala District"
+    },
+    "1733401": {
+      "uz": "Urganch shahri",
+      "ru": "город Ургенч",
+      "en": "Urgench City"
+    },
+    "1733406": {
+      "uz": "Xiva shahri",
+      "ru": "город Хива",
+      "en": "Khiva City"
+    },
+    "1733226": {
+      "uz": "Xiva tumani",
+      "ru": "Хивинский район",
+      "en": "Khiva District"
+    },
+    "1733236": {
+      "uz": "Yangibozor tumani",
+      "ru": "Янгибазарский район",
+      "en": "Yangibazar District"
+    },
+    "1733230": {
+      "uz": "Shovot tumani",
+      "ru": "Шаватский район",
+      "en": "Shavat District"
+    },
+    "1733212": {
+      "uz": "Qo‘shko‘pir tumani",
+      "ru": "Кушкупырский район",
+      "en": "Kushkupyr District"
+    },
+    "1733208": {
+      "uz": "Gurlan tumani",
+      "ru": "Гурленский район",
+      "en": "Gurlan District"
+    },
+    "1706212": {
+      "uz": "Vobkent tumani",
+      "ru": "Вабкентский район",
+      "en": "Vabkent District"
+    },
+    "1706204": {
+      "uz": "Olot tumani",
+      "ru": "Алатский район",
+      "en": "Alat District"
+    },
+    "1706207": {
+      "uz": "Buxoro tumani",
+      "ru": "Бухарский район",
+      "en": "Bukhara District"
+    },
+    "1706215": {
+      "uz": "G‘ijduvon tumani",
+      "ru": "Гиждуванский район",
+      "en": "Gijduvan District"
+    },
+    "1706258": {
+      "uz": "Shofirkon tumani",
+      "ru": "Шафирканский район",
+      "en": "Shafirkan District"
+    },
+    "1706230": {
+      "uz": "Qorako‘l tumani",
+      "ru": "Каракульский район",
+      "en": "Karakul District"
+    },
+    "1706219": {
+      "uz": "Kogon tumani",
+      "ru": "Каганский район",
+      "en": "Kagan District"
+    },
+    "1706232": {
+      "uz": "Qorovulbozor tumani",
+      "ru": "Караулбазарский район",
+      "en": "Karavulbazar District"
+    },
+    "1706242": {
+      "uz": "Romitan tumani",
+      "ru": "Ромитанский район",
+      "en": "Romitan District"
+    },
+    "1706403": {
+      "uz": "Kogon shahar",
+      "ru": "город Каган",
+      "en": "Kagan City"
+    },
+    "1706246": {
+      "uz": "Jondor tumani",
+      "ru": "Жондорский район",
+      "en": "Jondor District"
+    },
+    "1706401": {
+      "uz": "Buxoro shahar",
+      "ru": "город Бухара",
+      "en": "Bukhara City"
+    },
+    "1706240": {
+      "uz": "Peshku tumani",
+      "ru": "Пешкунский район",
+      "en": "Peshku District"
+    }
+  }
+}
